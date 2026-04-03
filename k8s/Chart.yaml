@@ -1,5 +1,5 @@
 apiVersion: v2
-name: alice-search-saas
+name: alice-search
 description: ALICE Search
 type: application
 version: 0.1.0
